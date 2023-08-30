@@ -497,7 +497,7 @@ GameObject:
   - component: {fileID: 5823421902360150479}
   - component: {fileID: 5823421902642260931}
   m_Layer: 0
-  m_Name: PlayerCar
+  m_Name: Car (WheelCollider)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
