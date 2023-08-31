@@ -19,11 +19,13 @@ public class ArcadeWheelController : MonoBehaviour
         float verticalAxis = Input.GetAxisRaw("Vertical");
         float horizontalAxis = Input.GetAxisRaw("Horizontal");
 
+        // Wheels Rotation
         foreach (var wheel in wheels)
         {
             wheel.transform.Rotate(Time.deltaTime * verticalAxis * rotationSpeed, 0f, 0f, Space.Self);
         }
 
+        // Turning Animation
         if (horizontalAxis > 0)
         {
             // Turning right
