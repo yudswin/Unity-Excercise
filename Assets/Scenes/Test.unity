@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 126121916}
   - component: {fileID: 126121915}
   - component: {fileID: 126121914}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MotorSphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -151,14 +151,14 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 126121913}
   serializedVersion: 2
-  m_Mass: 1
+  m_Mass: 5
   m_Drag: 4
-  m_AngularDrag: 0.05
+  m_AngularDrag: 0.01
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 3
 --- !u!135 &126121915
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -439,6 +439,7 @@ GameObject:
   - component: {fileID: 963194228}
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
+  - component: {fileID: 963194229}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -504,14 +505,30 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.19449617, y: -0, z: -0, w: 0.98090327}
-  m_LocalPosition: {x: 0, y: 3.23, z: 0.00000009143888}
+  m_LocalRotation: {x: 0.13768591, y: -0, z: -0, w: 0.99047595}
+  m_LocalPosition: {x: 0, y: 4.43, z: -55.48}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 22.431, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 15.828, y: 0, z: 0}
+--- !u!114 &963194229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9955a2748dd54a46be99dc57c925784, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TargetObject: {fileID: 126121918}
+  CamTransform: {fileID: 963194228}
+  offSet: {x: 0, y: 0, z: 0}
+  SmoothTime: 0.3
 --- !u!1 &1303501141
 GameObject:
   m_ObjectHideFlags: 0
@@ -522,6 +539,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1303501143}
   - component: {fileID: 1303501142}
+  - component: {fileID: 1303501144}
   m_Layer: 0
   m_Name: ArcadeCar
   m_TagString: Untagged
@@ -541,15 +559,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2abf0ea0316e1b444b6c0d470e9ca382, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sphereRB: {fileID: 126121914}
-  airDrag: 0.1
-  groundDrag: 4
+  GRAVITY: 30
+  modifiedDrag: 1
+  alignToGroundTime: 20
   forwardSpeed: 200
   reverseSpeed: 100
   turnSpeed: 150
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
+  sphereRB: {fileID: 126121914}
+  carRB: {fileID: 8242211930080788559}
 --- !u!4 &1303501143
 Transform:
   m_ObjectHideFlags: 0
@@ -558,15 +578,32 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1303501141}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.5, z: 0}
+  m_LocalPosition: {x: 0, y: 0.5, z: -43.4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 583740228348257657}
   - {fileID: 126121918}
+  - {fileID: 3823714703086398905}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1303501144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1303501141}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 555bf3658c63d374ba6dc8c675485a56, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  wheels:
+  - {fileID: 583740228348033375}
+  - {fileID: 583740228348033373}
+  rotationSpeed: 1000
 --- !u!1 &1567611395
 GameObject:
   m_ObjectHideFlags: 0
@@ -981,3 +1018,81 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 583740228348033373}
   m_Mesh: {fileID: 4300004, guid: af38530c981119245a75de5163dd7b74, type: 3}
+--- !u!65 &1402071130708935786
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2907086717395125384}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.1667135, y: 1.2355083, z: 3.538457}
+  m_Center: {x: 0, y: 0.36672038, z: -0.030278683}
+--- !u!1 &2907086717395125384
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3823714703086398905}
+  - component: {fileID: 1402071130708935786}
+  - component: {fileID: 8242211930080788559}
+  - component: {fileID: 8755949305629686853}
+  m_Layer: 8
+  m_Name: CarCollider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3823714703086398905
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2907086717395125384}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1303501143}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &8242211930080788559
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2907086717395125384}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 1
+  m_Constraints: 112
+  m_CollisionDetection: 3
+--- !u!138 &8755949305629686853
+FixedJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2907086717395125384}
+  m_ConnectedBody: {fileID: 126121914}
+  m_ConnectedArticulationBody: {fileID: 0}
+  m_BreakForce: Infinity
+  m_BreakTorque: Infinity
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 1
+  m_MassScale: 1
+  m_ConnectedMassScale: 1
