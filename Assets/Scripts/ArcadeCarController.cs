@@ -10,6 +10,7 @@ public class ArcadeCarController : MonoBehaviour
     private float turnInput;
     private bool isGrounded;
 
+
     public float GRAVITY = 30.0f;
     private float normalDrag;
     public float modifiedDrag;
@@ -22,6 +23,8 @@ public class ArcadeCarController : MonoBehaviour
     public LayerMask groundLayer;
     public Rigidbody sphereRB;
     public Rigidbody carRB;
+
+    
 
 
     void Start()
@@ -36,8 +39,13 @@ public class ArcadeCarController : MonoBehaviour
     void Update()
     {
         // get Input
-        moveInput = Input.GetAxisRaw("Vertical");
-        turnInput = Input.GetAxisRaw("Horizontal");
+        if (ArcadeCarScript.fuelRemaining > 0)
+        {
+            moveInput = Input.GetAxisRaw("Vertical");
+            turnInput = Input.GetAxisRaw("Horizontal");
+        } 
+        else
+            moveInput = 0;
 
         // calculate car rotation
         float newRotation = turnInput * turnSpeed * Time.deltaTime * Input.GetAxisRaw("Vertical");
@@ -61,6 +69,7 @@ public class ArcadeCarController : MonoBehaviour
 
         // calculate Drag
         sphereRB.drag = isGrounded ? normalDrag : modifiedDrag;
+
 
     }
 
