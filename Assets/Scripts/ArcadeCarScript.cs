@@ -6,9 +6,11 @@ using UnityEngine.UI;
 
 public class ArcadeCarScript : MonoBehaviour
 {
-    public float initialFuelLevel = 100; // Initial fuel level
-    public float fuelConsumptionRate = 5; // Rate at which fuel is consumed per second
+    [Header("Car Information")]
     static public float fuelRemaining; // Current fuel level
+    public float initialFuelLevel = 100.0f; // Initial fuel level
+    public float fuelConsumptionRate = 5.0f; // Rate at which fuel is consumed per second
+    public const float fuelToAdd = 25.0f;
 
     [Header("UI")]
     public Text fuelText;
@@ -39,6 +41,22 @@ public class ArcadeCarScript : MonoBehaviour
             fuelRemaining -= fuelConsumed;
             fuel = (int)fuelRemaining;
             fuelText.text = fuel.ToString();
+        }
+    }
+
+    [ContextMenu("Add Fuel")]
+    public  void AddFuel()
+    {
+        if (fuelRemaining < initialFuelLevel)
+        {
+            if (fuelRemaining + fuelToAdd >= initialFuelLevel)
+            {
+                fuelRemaining += (initialFuelLevel - fuelRemaining);
+            }
+            else if (fuelRemaining + fuelToAdd < initialFuelLevel)
+            {
+                fuelRemaining += fuelToAdd;
+            }
         }
     }
 }

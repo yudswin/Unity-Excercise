@@ -43,9 +43,13 @@ public class ArcadeCarController : MonoBehaviour
         {
             moveInput = Input.GetAxisRaw("Vertical");
             turnInput = Input.GetAxisRaw("Horizontal");
-        } 
+        }
         else
+        {
             moveInput = 0;
+            turnInput = 0;
+        }
+
 
         // calculate car rotation
         float newRotation = turnInput * turnSpeed * Time.deltaTime * Input.GetAxisRaw("Vertical");
