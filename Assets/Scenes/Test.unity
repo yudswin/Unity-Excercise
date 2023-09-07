@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 29673451}
   m_Layer: 0
   m_Name: Road_Barrier (68)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -234,7 +234,7 @@ GameObject:
   - component: {fileID: 39611197}
   m_Layer: 0
   m_Name: Road_Barrier (82)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -331,7 +331,7 @@ GameObject:
   - component: {fileID: 39614720}
   m_Layer: 0
   m_Name: Road_Barrier (59)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -532,7 +532,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -226, y: -200}
+  m_AnchoredPosition: {x: -232.36, y: -173.39}
   m_SizeDelta: {x: 299.17, y: 32.8134}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &89481616
@@ -549,7 +549,7 @@ GameObject:
   - component: {fileID: 89481618}
   m_Layer: 0
   m_Name: Road_Barrier (27)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -729,7 +729,7 @@ GameObject:
   - component: {fileID: 99757893}
   m_Layer: 0
   m_Name: Road_Barrier (55)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -826,7 +826,7 @@ GameObject:
   - component: {fileID: 120774315}
   m_Layer: 0
   m_Name: Road_Barrier (62)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -923,7 +923,7 @@ GameObject:
   - component: {fileID: 120860686}
   m_Layer: 0
   m_Name: Road_Barrier (66)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -1020,7 +1020,7 @@ GameObject:
   - component: {fileID: 136162692}
   m_Layer: 0
   m_Name: Road_Barrier (54)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -1166,13 +1166,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 158180196}
   m_LocalRotation: {x: 0.23113886, y: -0.6682626, z: 0.23113886, w: 0.6682626}
-  m_LocalPosition: {x: 47.8, y: 17.49, z: -76.7}
+  m_LocalPosition: {x: 51.1, y: 17.49, z: 16.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2005356492}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 38.159, y: -90, z: 0}
 --- !u!33 &172071458
 MeshFilter:
@@ -1271,7 +1271,7 @@ GameObject:
   - component: {fileID: 183258810}
   m_Layer: 0
   m_Name: Road_Barrier (47)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -1368,7 +1368,7 @@ GameObject:
   - component: {fileID: 222602297}
   m_Layer: 0
   m_Name: Road_Barrier (71)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -1465,7 +1465,7 @@ GameObject:
   - component: {fileID: 230708188}
   m_Layer: 0
   m_Name: Road_Barrier (28)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -1562,7 +1562,7 @@ GameObject:
   - component: {fileID: 253035336}
   m_Layer: 0
   m_Name: Road_Barrier (57)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -1817,7 +1817,7 @@ GameObject:
   - component: {fileID: 289319589}
   m_Layer: 0
   m_Name: Road_Barrier (46)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -1914,7 +1914,7 @@ GameObject:
   - component: {fileID: 291703953}
   m_Layer: 0
   m_Name: Road_Barrier (72)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -2011,7 +2011,7 @@ GameObject:
   - component: {fileID: 313363765}
   m_Layer: 0
   m_Name: Road_Barrier (21)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -2191,7 +2191,7 @@ GameObject:
   - component: {fileID: 336062248}
   m_Layer: 0
   m_Name: Road_Barrier (26)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -2371,7 +2371,7 @@ GameObject:
   - component: {fileID: 366531313}
   m_Layer: 0
   m_Name: Road_Barrier (22)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -2468,7 +2468,7 @@ GameObject:
   - component: {fileID: 375936985}
   m_Layer: 0
   m_Name: Road_Barrier (65)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -2565,7 +2565,7 @@ GameObject:
   - component: {fileID: 390331627}
   m_Layer: 0
   m_Name: Road_Barrier (13)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -2662,7 +2662,7 @@ GameObject:
   - component: {fileID: 423246246}
   m_Layer: 0
   m_Name: Road_Barrier (24)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -2780,8 +2780,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -80.000656, y: 0}
-  m_SizeDelta: {x: 139.1687, y: 30}
+  m_AnchoredPosition: {x: -116.34179, y: 0}
+  m_SizeDelta: {x: 66.4864, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &456808667
 MonoBehaviour:
@@ -2816,7 +2816,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Fuel Status:'
+  m_Text: 'Fuel :'
 --- !u!222 &456808668
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2835,7 +2835,7 @@ GameObject:
   m_Component:
   - component: {fileID: 476555381}
   m_Layer: 0
-  m_Name: Barrier
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2874,7 +2874,7 @@ GameObject:
   - component: {fileID: 500269909}
   m_Layer: 0
   m_Name: Road_Barrier (53)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -2971,7 +2971,7 @@ GameObject:
   - component: {fileID: 521401475}
   m_Layer: 0
   m_Name: Road_Barrier (38)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -3068,7 +3068,7 @@ GameObject:
   - component: {fileID: 523567114}
   m_Layer: 0
   m_Name: Road_Barrier (76)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -3165,7 +3165,7 @@ GameObject:
   - component: {fileID: 525946763}
   m_Layer: 0
   m_Name: Road_Barrier (79)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -3262,7 +3262,7 @@ GameObject:
   - component: {fileID: 532393387}
   m_Layer: 0
   m_Name: Road_Barrier (83)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -3359,7 +3359,7 @@ GameObject:
   - component: {fileID: 549759176}
   m_Layer: 0
   m_Name: Road_Barrier (33)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -3456,7 +3456,7 @@ GameObject:
   - component: {fileID: 550390029}
   m_Layer: 0
   m_Name: Road_Barrier (66)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -3553,7 +3553,7 @@ GameObject:
   - component: {fileID: 557355501}
   m_Layer: 0
   m_Name: Road_Barrier (69)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -3650,7 +3650,7 @@ GameObject:
   - component: {fileID: 563470960}
   m_Layer: 0
   m_Name: Road_Barrier (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -3747,7 +3747,7 @@ GameObject:
   - component: {fileID: 564149955}
   m_Layer: 0
   m_Name: Road_Barrier (63)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -3865,7 +3865,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 69.58501, y: 0}
+  m_AnchoredPosition: {x: -3.0986023, y: 0}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &571067055
@@ -3962,7 +3962,7 @@ GameObject:
   - component: {fileID: 595706219}
   m_Layer: 0
   m_Name: Road_Barrier (34)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -4059,7 +4059,7 @@ GameObject:
   - component: {fileID: 599306680}
   m_Layer: 0
   m_Name: Road_Barrier (49)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -4156,7 +4156,7 @@ GameObject:
   - component: {fileID: 599533171}
   m_Layer: 0
   m_Name: Road_Barrier (87)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -4253,7 +4253,7 @@ GameObject:
   - component: {fileID: 609860866}
   m_Layer: 0
   m_Name: Road_Barrier (55)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -4350,7 +4350,7 @@ GameObject:
   - component: {fileID: 621895777}
   m_Layer: 0
   m_Name: Road_Barrier (70)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -4447,7 +4447,7 @@ GameObject:
   - component: {fileID: 638467157}
   m_Layer: 0
   m_Name: Road_Barrier (14)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -4544,7 +4544,7 @@ GameObject:
   - component: {fileID: 650803570}
   m_Layer: 0
   m_Name: Road_Barrier (43)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -4641,7 +4641,7 @@ GameObject:
   - component: {fileID: 662839896}
   m_Layer: 0
   m_Name: Road_Barrier (69)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -4738,7 +4738,7 @@ GameObject:
   - component: {fileID: 673933093}
   m_Layer: 0
   m_Name: Road_Barrier (39)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -4918,7 +4918,7 @@ GameObject:
   - component: {fileID: 691942756}
   m_Layer: 0
   m_Name: Road_Barrier (51)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -5015,7 +5015,7 @@ GameObject:
   - component: {fileID: 696893180}
   m_Layer: 0
   m_Name: Road_Barrier (67)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -5112,7 +5112,7 @@ GameObject:
   - component: {fileID: 703951967}
   m_Layer: 0
   m_Name: Road_Barrier (77)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -5209,7 +5209,7 @@ GameObject:
   - component: {fileID: 704800297}
   m_Layer: 0
   m_Name: Road_Barrier (61)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -5384,7 +5384,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &709151419
 GameObject:
@@ -5400,7 +5400,7 @@ GameObject:
   - component: {fileID: 709151420}
   m_Layer: 0
   m_Name: Road_Barrier (45)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -5497,7 +5497,7 @@ GameObject:
   - component: {fileID: 716483163}
   m_Layer: 0
   m_Name: Road_Barrier (44)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -5594,7 +5594,7 @@ GameObject:
   - component: {fileID: 721599754}
   m_Layer: 0
   m_Name: Road_Barrier (56)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -5771,6 +5771,7 @@ RectTransform:
   m_Children:
   - {fileID: 589351053}
   - {fileID: 72617272}
+  - {fileID: 1554165141}
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -5793,7 +5794,7 @@ GameObject:
   - component: {fileID: 742473107}
   m_Layer: 0
   m_Name: Road_Barrier
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -5890,7 +5891,7 @@ GameObject:
   - component: {fileID: 743739913}
   m_Layer: 0
   m_Name: Road_Barrier (63)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -6047,7 +6048,7 @@ GameObject:
   - component: {fileID: 780971452}
   m_Layer: 0
   m_Name: Road_Barrier (68)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -6144,7 +6145,7 @@ GameObject:
   - component: {fileID: 812524632}
   m_Layer: 0
   m_Name: Road_Barrier (32)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -6241,7 +6242,7 @@ GameObject:
   - component: {fileID: 815713086}
   m_Layer: 0
   m_Name: Road_Barrier (36)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -6338,7 +6339,7 @@ GameObject:
   - component: {fileID: 817180533}
   m_Layer: 0
   m_Name: Road_Barrier (70)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -6435,7 +6436,7 @@ GameObject:
   - component: {fileID: 820646139}
   m_Layer: 0
   m_Name: Road_Barrier (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -6532,7 +6533,7 @@ GameObject:
   - component: {fileID: 842331680}
   m_Layer: 0
   m_Name: Road_Barrier (41)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -6615,64 +6616,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 842331678}
   m_Mesh: {fileID: 4300000, guid: 9386098ea722eba429001c1a5b014983, type: 3}
---- !u!1001 &845753550
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_RootOrder
-      value: 11
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 31.45
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.28923446
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 87.98116
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.97629607
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.2164396
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 25
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715878336, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_Name
-      value: Barrel_Fuel (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 6384423840713617669, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-  m_SourcePrefab: {fileID: 100100000, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
 --- !u!1 &870165494
 GameObject:
   m_ObjectHideFlags: 0
@@ -6687,7 +6630,7 @@ GameObject:
   - component: {fileID: 870165496}
   m_Layer: 0
   m_Name: Road_Barrier (17)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -6784,7 +6727,7 @@ GameObject:
   - component: {fileID: 880715327}
   m_Layer: 0
   m_Name: Road_Barrier (25)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -6867,64 +6810,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 880715325}
   m_Mesh: {fileID: 4300000, guid: 9386098ea722eba429001c1a5b014983, type: 3}
---- !u!1001 &881669487
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_RootOrder
-      value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 25.45
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.28923446
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 87.98116
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.97629607
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.2164396
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 25
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715878336, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_Name
-      value: Barrel_Fuel (5)
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 6384423840713617669, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-  m_SourcePrefab: {fileID: 100100000, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
 --- !u!1 &887909998
 GameObject:
   m_ObjectHideFlags: 0
@@ -6939,7 +6824,7 @@ GameObject:
   - component: {fileID: 887910000}
   m_Layer: 0
   m_Name: Road_Barrier (81)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -7036,7 +6921,7 @@ GameObject:
   - component: {fileID: 901654922}
   m_Layer: 0
   m_Name: Road_Barrier (37)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -7133,7 +7018,7 @@ GameObject:
   - component: {fileID: 911511575}
   m_Layer: 0
   m_Name: Road_Barrier (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -7310,7 +7195,7 @@ GameObject:
   - component: {fileID: 930624559}
   m_Layer: 0
   m_Name: Road_Barrier (57)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -7407,7 +7292,7 @@ GameObject:
   - component: {fileID: 943306173}
   m_Layer: 0
   m_Name: Road_Barrier (52)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -7504,7 +7389,7 @@ GameObject:
   - component: {fileID: 945503333}
   m_Layer: 0
   m_Name: Road_Barrier (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -7601,7 +7486,7 @@ GameObject:
   - component: {fileID: 953979429}
   m_Layer: 0
   m_Name: Road_Barrier (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -7698,7 +7583,7 @@ GameObject:
   - component: {fileID: 957947861}
   m_Layer: 0
   m_Name: Road_Barrier (67)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -7859,7 +7744,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0.23113886, y: -0.6682626, z: 0.23113886, w: 0.6682626}
-  m_LocalPosition: {x: 47.8, y: 17.49, z: -76.7}
+  m_LocalPosition: {x: 51.1, y: 17.49, z: 16.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7914,7 +7799,7 @@ GameObject:
   - component: {fileID: 966922528}
   m_Layer: 0
   m_Name: Road_Barrier (35)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -8011,7 +7896,7 @@ GameObject:
   - component: {fileID: 989438072}
   m_Layer: 0
   m_Name: Road_Barrier (54)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -8108,7 +7993,7 @@ GameObject:
   - component: {fileID: 990423981}
   m_Layer: 0
   m_Name: Road_Barrier (17)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -8205,7 +8090,7 @@ GameObject:
   - component: {fileID: 1001352685}
   m_Layer: 0
   m_Name: Road_Barrier (24)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -8302,7 +8187,7 @@ GameObject:
   - component: {fileID: 1017384172}
   m_Layer: 0
   m_Name: Road_Barrier (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -8399,7 +8284,7 @@ GameObject:
   - component: {fileID: 1029535120}
   m_Layer: 0
   m_Name: Road_Barrier (42)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -8496,7 +8381,7 @@ GameObject:
   - component: {fileID: 1040478172}
   m_Layer: 0
   m_Name: Road_Barrier (86)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -8593,7 +8478,7 @@ GameObject:
   - component: {fileID: 1045248423}
   m_Layer: 0
   m_Name: Road_Barrier (21)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -8690,7 +8575,7 @@ GameObject:
   - component: {fileID: 1048744532}
   m_Layer: 0
   m_Name: Road_Barrier (22)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -8787,7 +8672,7 @@ GameObject:
   - component: {fileID: 1069794603}
   m_Layer: 0
   m_Name: Road_Barrier (19)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -8917,7 +8802,7 @@ GameObject:
   - component: {fileID: 1080088827}
   m_Layer: 0
   m_Name: Road_Barrier (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -9014,7 +8899,7 @@ GameObject:
   - component: {fileID: 1080439253}
   m_Layer: 0
   m_Name: Road_Barrier (52)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -9111,7 +8996,7 @@ GameObject:
   - component: {fileID: 1080749324}
   m_Layer: 0
   m_Name: Road_Barrier (71)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -9333,7 +9218,7 @@ GameObject:
   - component: {fileID: 1139532213}
   m_Layer: 0
   m_Name: Road_Barrier (60)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -9449,6 +9334,86 @@ Transform:
   m_Father: {fileID: 2099328603}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1143021117
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1143021118}
+  - component: {fileID: 1143021120}
+  - component: {fileID: 1143021119}
+  m_Layer: 5
+  m_Name: Damage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1143021118
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1143021117}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1554165141}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -95.068924, y: 0}
+  m_SizeDelta: {x: 109.0322, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1143021119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1143021117}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 24
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'Damage :'
+--- !u!222 &1143021120
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1143021117}
+  m_CullTransparentMesh: 1
 --- !u!23 &1143595072
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9513,7 +9478,7 @@ GameObject:
   - component: {fileID: 1163849541}
   m_Layer: 0
   m_Name: Road_Barrier (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -9610,7 +9575,7 @@ GameObject:
   - component: {fileID: 1169827556}
   m_Layer: 0
   m_Name: Road_Barrier (64)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -9707,7 +9672,7 @@ GameObject:
   - component: {fileID: 1172208399}
   m_Layer: 0
   m_Name: Road_Barrier (85)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -9804,7 +9769,7 @@ GameObject:
   - component: {fileID: 1172941320}
   m_Layer: 0
   m_Name: Road_Barrier (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -9964,7 +9929,7 @@ GameObject:
   - component: {fileID: 1189952408}
   m_Layer: 0
   m_Name: Road_Barrier (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -10061,7 +10026,7 @@ GameObject:
   - component: {fileID: 1204241269}
   m_Layer: 0
   m_Name: Road_Barrier (27)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -10158,7 +10123,7 @@ GameObject:
   - component: {fileID: 1213360708}
   m_Layer: 0
   m_Name: Road_Barrier (48)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -10323,7 +10288,7 @@ GameObject:
   - component: {fileID: 1220049588}
   m_Layer: 0
   m_Name: Road_Barrier (15)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -10518,7 +10483,7 @@ GameObject:
   - component: {fileID: 1245930764}
   m_Layer: 0
   m_Name: Road_Barrier (36)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -10615,7 +10580,7 @@ GameObject:
   - component: {fileID: 1254437218}
   m_Layer: 0
   m_Name: Road_Barrier (75)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -10712,7 +10677,7 @@ GameObject:
   - component: {fileID: 1254575368}
   m_Layer: 0
   m_Name: Road_Barrier (74)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -10809,7 +10774,7 @@ GameObject:
   - component: {fileID: 1259504299}
   m_Layer: 0
   m_Name: Road_Barrier (13)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -10906,7 +10871,7 @@ GameObject:
   - component: {fileID: 1278884197}
   m_Layer: 0
   m_Name: Road_Barrier (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -11003,7 +10968,7 @@ GameObject:
   - component: {fileID: 1280148115}
   m_Layer: 0
   m_Name: Road_Barrier (29)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -11100,7 +11065,7 @@ GameObject:
   - component: {fileID: 1286270076}
   m_Layer: 0
   m_Name: Road_Barrier (50)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -11202,7 +11167,7 @@ GameObject:
   - component: {fileID: 1307013998}
   m_Layer: 0
   m_Name: Road_Barrier (18)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -11299,7 +11264,7 @@ GameObject:
   - component: {fileID: 1321280280}
   m_Layer: 0
   m_Name: Road_Barrier (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -11479,7 +11444,7 @@ GameObject:
   - component: {fileID: 1377952957}
   m_Layer: 0
   m_Name: Road_Barrier (48)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -11576,7 +11541,7 @@ GameObject:
   - component: {fileID: 1393747201}
   m_Layer: 0
   m_Name: Road_Barrier (39)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -11756,7 +11721,7 @@ GameObject:
   - component: {fileID: 1412636637}
   m_Layer: 0
   m_Name: Road_Barrier (42)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -11853,7 +11818,7 @@ GameObject:
   - component: {fileID: 1439683072}
   m_Layer: 0
   m_Name: Road_Barrier (16)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -11936,6 +11901,86 @@ Transform:
   m_Father: {fileID: 1120254010}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!1 &1451304434
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1451304435}
+  - component: {fileID: 1451304437}
+  - component: {fileID: 1451304436}
+  m_Layer: 5
+  m_Name: Damaged Counter
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1451304435
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451304434}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1554165141}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 45.6, y: 0}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1451304436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451304434}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 24
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 0
+--- !u!222 &1451304437
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451304434}
+  m_CullTransparentMesh: 1
 --- !u!1 &1475498137
 GameObject:
   m_ObjectHideFlags: 0
@@ -11950,7 +11995,7 @@ GameObject:
   - component: {fileID: 1475498139}
   m_Layer: 0
   m_Name: Road_Barrier (61)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -12047,7 +12092,7 @@ GameObject:
   - component: {fileID: 1476741832}
   m_Layer: 0
   m_Name: Road_Barrier (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -12144,7 +12189,7 @@ GameObject:
   - component: {fileID: 1479415673}
   m_Layer: 0
   m_Name: Road_Barrier (43)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -12241,7 +12286,7 @@ GameObject:
   - component: {fileID: 1481525556}
   m_Layer: 0
   m_Name: Road_Barrier (41)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -12338,7 +12383,7 @@ GameObject:
   - component: {fileID: 1484597043}
   m_Layer: 0
   m_Name: Road_Barrier (31)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -12435,7 +12480,7 @@ GameObject:
   - component: {fileID: 1500227792}
   m_Layer: 0
   m_Name: Road_Barrier (73)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -12532,7 +12577,7 @@ GameObject:
   - component: {fileID: 1511158237}
   m_Layer: 0
   m_Name: Road_Barrier (20)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -12629,7 +12674,7 @@ GameObject:
   - component: {fileID: 1539209338}
   m_Layer: 0
   m_Name: Road_Barrier (74)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -12726,7 +12771,7 @@ GameObject:
   - component: {fileID: 1547654339}
   m_Layer: 0
   m_Name: Road_Barrier (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -12809,6 +12854,44 @@ Transform:
   m_Father: {fileID: 1120254010}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!1 &1554165140
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1554165141}
+  m_Layer: 5
+  m_Name: Damaged
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1554165141
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1554165140}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1143021118}
+  - {fileID: 1451304435}
+  m_Father: {fileID: 740256896}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -233, y: -206.2}
+  m_SizeDelta: {x: 299.17, y: 32.8134}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1565353836
 GameObject:
   m_ObjectHideFlags: 0
@@ -12823,7 +12906,7 @@ GameObject:
   - component: {fileID: 1565353838}
   m_Layer: 0
   m_Name: Road_Barrier (80)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -12952,7 +13035,7 @@ GameObject:
   - component: {fileID: 1568049114}
   m_Layer: 0
   m_Name: Road_Barrier (84)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -13049,7 +13132,7 @@ GameObject:
   - component: {fileID: 1573048796}
   m_Layer: 0
   m_Name: Road_Barrier (64)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -13146,7 +13229,7 @@ GameObject:
   - component: {fileID: 1574260740}
   m_Layer: 0
   m_Name: Road_Barrier (16)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -13243,7 +13326,7 @@ GameObject:
   - component: {fileID: 1574933523}
   m_Layer: 0
   m_Name: Road_Barrier (40)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -13340,7 +13423,7 @@ GameObject:
   - component: {fileID: 1576553508}
   m_Layer: 0
   m_Name: Road_Barrier (50)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -13437,7 +13520,7 @@ GameObject:
   - component: {fileID: 1582589296}
   m_Layer: 0
   m_Name: Road_Barrier (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -13534,7 +13617,7 @@ GameObject:
   - component: {fileID: 1618604575}
   m_Layer: 0
   m_Name: Road_Barrier (12)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -13631,7 +13714,7 @@ GameObject:
   - component: {fileID: 1620314421}
   m_Layer: 0
   m_Name: Road_Barrier (49)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -13728,7 +13811,7 @@ GameObject:
   - component: {fileID: 1625422661}
   m_Layer: 0
   m_Name: Road_Barrier (12)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -13908,7 +13991,7 @@ GameObject:
   - component: {fileID: 1636120251}
   m_Layer: 0
   m_Name: Road_Barrier (60)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -14005,7 +14088,7 @@ GameObject:
   - component: {fileID: 1650876106}
   m_Layer: 0
   m_Name: Road_Barrier (65)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -14102,7 +14185,7 @@ GameObject:
   - component: {fileID: 1654002767}
   m_Layer: 0
   m_Name: Road_Barrier (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -14185,64 +14268,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1654002765}
   m_Mesh: {fileID: 4300000, guid: 9386098ea722eba429001c1a5b014983, type: 3}
---- !u!1001 &1667050082
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_RootOrder
-      value: 13
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 37.45
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.28923446
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 87.98116
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.97629607
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.2164396
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 25
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715878336, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_Name
-      value: Barrel_Fuel (3)
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 6384423840713617669, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-  m_SourcePrefab: {fileID: 100100000, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
 --- !u!1 &1671272761
 GameObject:
   m_ObjectHideFlags: 0
@@ -14257,7 +14282,7 @@ GameObject:
   - component: {fileID: 1671272763}
   m_Layer: 0
   m_Name: Road_Barrier (59)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -14354,7 +14379,7 @@ GameObject:
   - component: {fileID: 1673994380}
   m_Layer: 0
   m_Name: Road_Barrier (26)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -14451,7 +14476,7 @@ GameObject:
   - component: {fileID: 1677512200}
   m_Layer: 0
   m_Name: Road_Barrier (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -14548,7 +14573,7 @@ GameObject:
   - component: {fileID: 1678260411}
   m_Layer: 0
   m_Name: Road_Barrier (56)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -14645,7 +14670,7 @@ GameObject:
   - component: {fileID: 1679502637}
   m_Layer: 0
   m_Name: Road_Barrier (23)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -14788,7 +14813,7 @@ GameObject:
   - component: {fileID: 1742564809}
   m_Layer: 0
   m_Name: Road_Barrier (19)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -14871,64 +14896,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1742564807}
   m_Mesh: {fileID: 4300000, guid: 9386098ea722eba429001c1a5b014983, type: 3}
---- !u!1001 &1756781796
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_RootOrder
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 28.45
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.28923446
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 87.98116
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.97629607
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.2164396
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 25
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715878336, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_Name
-      value: Barrel_Fuel (4)
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 6384423840713617669, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-  m_SourcePrefab: {fileID: 100100000, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
 --- !u!1 &1776834444
 GameObject:
   m_ObjectHideFlags: 0
@@ -14943,7 +14910,7 @@ GameObject:
   - component: {fileID: 1776834446}
   m_Layer: 0
   m_Name: Road_Barrier (14)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -15040,7 +15007,7 @@ GameObject:
   - component: {fileID: 1784259438}
   m_Layer: 0
   m_Name: Road_Barrier (46)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -15235,7 +15202,7 @@ GameObject:
   - component: {fileID: 1797218625}
   m_Layer: 0
   m_Name: Road_Barrier (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -15332,7 +15299,7 @@ GameObject:
   - component: {fileID: 1805454198}
   m_Layer: 0
   m_Name: Road_Barrier (37)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -15429,7 +15396,7 @@ GameObject:
   - component: {fileID: 1818179478}
   m_Layer: 0
   m_Name: Road_Barrier (18)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -15609,7 +15576,7 @@ GameObject:
   - component: {fileID: 1838306721}
   m_Layer: 0
   m_Name: Road_Barrier (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -15706,7 +15673,7 @@ GameObject:
   - component: {fileID: 1852429997}
   m_Layer: 0
   m_Name: Road_Barrier (72)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -15803,7 +15770,7 @@ GameObject:
   - component: {fileID: 1860856668}
   m_Layer: 0
   m_Name: Road_Barrier (51)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -15886,64 +15853,6 @@ Transform:
   m_Father: {fileID: 1175979684}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 177.922, z: 0}
---- !u!1001 &1863469582
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_RootOrder
-      value: 12
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 34.45
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.28923446
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 87.98116
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.97629607
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.2164396
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 25
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715387872, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6384423840715878336, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-      propertyPath: m_Name
-      value: Barrel_Fuel (2)
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 6384423840713617669, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
-  m_SourcePrefab: {fileID: 100100000, guid: 8a1a0874b23c5884284c66d7063b5925, type: 3}
 --- !u!1 &1876246948
 GameObject:
   m_ObjectHideFlags: 0
@@ -16026,7 +15935,7 @@ GameObject:
   - component: {fileID: 1884353588}
   m_Layer: 0
   m_Name: Road_Barrier (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -16123,7 +16032,7 @@ GameObject:
   - component: {fileID: 1893546813}
   m_Layer: 0
   m_Name: Road_Barrier (29)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -16220,7 +16129,7 @@ GameObject:
   - component: {fileID: 1897905603}
   m_Layer: 0
   m_Name: Road_Barrier (44)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -16317,7 +16226,7 @@ GameObject:
   - component: {fileID: 1900729531}
   m_Layer: 0
   m_Name: Road_Barrier (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -16414,7 +16323,7 @@ GameObject:
   - component: {fileID: 1904141027}
   m_Layer: 0
   m_Name: Road_Barrier (32)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -16511,7 +16420,7 @@ GameObject:
   - component: {fileID: 1912392591}
   m_Layer: 0
   m_Name: Road_Barrier (73)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -16608,7 +16517,7 @@ GameObject:
   - component: {fileID: 1925960823}
   m_Layer: 0
   m_Name: Road_Barrier (58)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -16705,7 +16614,7 @@ GameObject:
   - component: {fileID: 1929665421}
   m_Layer: 0
   m_Name: Road_Barrier (75)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -16805,9 +16714,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0544a439cb3aa0540b08014d0395e658, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  initialFuelLevel: 100
   fuelConsumptionRate: 5
+  fuelAddValue: 25
+  capacityAddValue: 25
+  moveInput: 0
+  damageStatus: 100
+  initialStatus: 100
+  damageValue: 10
   fuelText: {fileID: 571067055}
-  _isMoving: 0
+  damageText: {fileID: 1451304436}
 --- !u!1 &1934754700
 GameObject:
   m_ObjectHideFlags: 0
@@ -16905,7 +16821,7 @@ GameObject:
   - component: {fileID: 1944685495}
   m_Layer: 0
   m_Name: Road_Barrier (58)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -17002,7 +16918,7 @@ GameObject:
   - component: {fileID: 1960354094}
   m_Layer: 0
   m_Name: Road_Barrier (33)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -17099,7 +17015,7 @@ GameObject:
   - component: {fileID: 1961878734}
   m_Layer: 0
   m_Name: Road_Barrier (35)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -17196,7 +17112,7 @@ GameObject:
   - component: {fileID: 1977233376}
   m_Layer: 0
   m_Name: Road_Barrier (30)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -17293,7 +17209,7 @@ GameObject:
   - component: {fileID: 1977577634}
   m_Layer: 0
   m_Name: Road_Barrier (47)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -17390,7 +17306,7 @@ GameObject:
   - component: {fileID: 1983030829}
   m_Layer: 0
   m_Name: Road_Barrier (28)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -17487,7 +17403,7 @@ GameObject:
   - component: {fileID: 1987042894}
   m_Layer: 0
   m_Name: Road_Barrier (31)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -17584,7 +17500,7 @@ GameObject:
   - component: {fileID: 2003668021}
   m_Layer: 0
   m_Name: Road_Barrier (45)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -17713,7 +17629,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BindingMode: 0
-  m_FollowOffset: {x: 20, y: 16.99, z: 0}
+  m_FollowOffset: {x: 20, y: 16.99, z: 3.4}
   m_XDamping: 1
   m_YDamping: 1
   m_ZDamping: 1
@@ -17831,7 +17747,7 @@ GameObject:
   - component: {fileID: 2061159212}
   m_Layer: 0
   m_Name: Road_Barrier (25)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -18011,7 +17927,7 @@ GameObject:
   - component: {fileID: 2075115860}
   m_Layer: 0
   m_Name: Road_Barrier (40)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -18108,7 +18024,7 @@ GameObject:
   - component: {fileID: 2090744862}
   m_Layer: 0
   m_Name: Road_Barrier (15)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -18254,7 +18170,7 @@ GameObject:
   - component: {fileID: 2108530123}
   m_Layer: 0
   m_Name: Road_Barrier (30)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -18351,7 +18267,7 @@ GameObject:
   - component: {fileID: 2113939624}
   m_Layer: 0
   m_Name: Road_Barrier (62)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -18448,7 +18364,7 @@ GameObject:
   - component: {fileID: 2114750127}
   m_Layer: 0
   m_Name: Road_Barrier (38)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -18545,7 +18461,7 @@ GameObject:
   - component: {fileID: 2117991148}
   m_Layer: 0
   m_Name: Road_Barrier (78)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -18642,7 +18558,7 @@ GameObject:
   - component: {fileID: 2125605362}
   m_Layer: 0
   m_Name: Road_Barrier (53)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -18739,7 +18655,7 @@ GameObject:
   - component: {fileID: 2126158914}
   m_Layer: 0
   m_Name: Road_Barrier (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -18836,7 +18752,7 @@ GameObject:
   - component: {fileID: 2135109409}
   m_Layer: 0
   m_Name: Road_Barrier (20)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -19091,7 +19007,7 @@ GameObject:
   - component: {fileID: 3256475795106033564}
   m_Layer: 0
   m_Name: Road_Barrier
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -19320,11 +19236,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5801127574075795838, guid: 30e7bbf76cfd9ed4f8da6ad280491ebc, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5801127574075795838, guid: 30e7bbf76cfd9ed4f8da6ad280491ebc, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 27.8
+      value: 31.1
       objectReference: {fileID: 0}
     - target: {fileID: 5801127574075795838, guid: 30e7bbf76cfd9ed4f8da6ad280491ebc, type: 3}
       propertyPath: m_LocalPosition.y
@@ -19332,7 +19248,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5801127574075795838, guid: 30e7bbf76cfd9ed4f8da6ad280491ebc, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -76.7
+      value: 13.4
       objectReference: {fileID: 0}
     - target: {fileID: 5801127574075795838, guid: 30e7bbf76cfd9ed4f8da6ad280491ebc, type: 3}
       propertyPath: m_LocalRotation.w
